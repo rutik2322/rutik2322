@@ -1,4 +1,9 @@
-### Hi there 👋
+- 👋 Hi, I’m @rutik2322
+- 👀 I’m interested in Full Stack Web Development
+- 🌱 I’m currently learning Java
+- 💞️ I’m looking to collaborate As an Developer
+- 📫 How to reach me kadamrutik546@gmail.com
+  
 
 <!--
 **rutik2322/rutik2322** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
